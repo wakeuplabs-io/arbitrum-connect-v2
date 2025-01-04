@@ -3,6 +3,7 @@ import envParsed from '@/envParsed';
 
 export const LEARN_MORE_URI = 'https://docs.arbitrum.io/how-arbitrum-works/sequencer';
 export const NAV_LINKS: NavbarLink[] = [
+  // DELETE:
   {
     label: 'Add Custom Chain',
     to: '/custom',
