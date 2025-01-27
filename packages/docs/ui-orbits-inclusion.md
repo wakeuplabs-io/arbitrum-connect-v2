@@ -13,6 +13,8 @@ Users are now allowed to add their own chains in order to withdraw funds from an
 The UI is straightforward, configure the required chain values and start your withdrawal. 
 Custom chains are be stored for its later use or edition.
 
+Users are also able to mark chains as favourite for an improved experience.
+
 ### Backend
 
 Configured chains are retained on browser's local storage.
