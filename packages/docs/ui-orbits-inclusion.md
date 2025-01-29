@@ -17,10 +17,4 @@ Users are also able to mark chains as favourite for an improved experience.
 
 ### Backend
 
-Configured chains are retained on browser's local storage.
-
-### Well known Orbits
-
-Well known Orbit Chains are on the way!
-
-They will be available for the user to choose from the chain selector list, so no configuration will be required for those.
+Configured chains are retained on browser's indexed DB.
